@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-Portfolio/static/css/main.4e079d16.css",
-    "main.js": "/react-Portfolio/static/js/main.d55fddb5.js",
+    "main.js": "/react-Portfolio/static/js/main.e19d7617.js",
     "static/js/453.ace21015.chunk.js": "/react-Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/leaf.png": "/react-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/react-Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/react-Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/codeEditor.png": "/react-Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Alicia_Martin_Resume.pdf": "/react-Portfolio/static/media/Alicia_Martin_Resume.b3e442e01e8190100f4c.pdf",
     "static/media/blog.png": "/react-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/react-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/react-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/react-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera.pdf": "/react-Portfolio/static/media/Soumyajit_Behera.0a483621860835f0c118.pdf",
     "static/media/avatar.svg": "/react-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/go.svg": "/react-Portfolio/static/media/go.92167445712559696ed2cbe525706710.svg",
     "static/media/SQL.svg": "/react-Portfolio/static/media/SQL.52fc098126b8b29ddd950a944b5d0026.svg",
@@ -42,11 +42,11 @@
     "static/media/Haskell.svg": "/react-Portfolio/static/media/Haskell.e4b7b5b34e24fee7cd7a2a1f75b9550b.svg",
     "static/media/Firebase.svg": "/react-Portfolio/static/media/Firebase.c5e643a18f060de1d39eda5908abbb5f.svg",
     "main.4e079d16.css.map": "/react-Portfolio/static/css/main.4e079d16.css.map",
-    "main.d55fddb5.js.map": "/react-Portfolio/static/js/main.d55fddb5.js.map",
+    "main.e19d7617.js.map": "/react-Portfolio/static/js/main.e19d7617.js.map",
     "453.ace21015.chunk.js.map": "/react-Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e079d16.css",
-    "static/js/main.d55fddb5.js"
+    "static/js/main.e19d7617.js"
   ]
 }
